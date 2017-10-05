@@ -1,6 +1,6 @@
 html {
   background-color: #f2f1ed;
-  font-family: Georgia, Serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
 }
 
@@ -8,9 +8,9 @@ img {
   width: 100%;
 }
 
-h1 {
-color: #5d8432;
-text-transform: uppercase;
+h1, h2 {
+  color: #5d8432;
+  text-transform: uppercase;
 }
 
 figcaption {
@@ -29,8 +29,8 @@ a:hover {
   color: #b42885;
 }
 
-h2, nav {
-  font-family: 'Patua One', cursive;
+h1, h2, nav {
+  font-family: "Patua One", cursive;
 }
 
 .hadro {
