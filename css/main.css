@@ -17,3 +17,13 @@ figcaption {
   text-align: center;
   font-size: 1rem;
 }
+a {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+a:link {
+  color: #793284;
+}
+a:hover {
+  color: #b42885;
+}
