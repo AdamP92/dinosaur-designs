@@ -1,1 +1,19 @@
-main.css
+html {
+  background-color: #f2f1ed;
+  font-family: Georgia, Serif;
+  line-height: 1.5;
+}
+img {
+  width: 100%;
+}
+h1, h2 {
+  color: #5d8432;
+  }
+h2 {
+  text-transform: uppercase;
+}
+figcaption {
+  font-style: italic;
+  text-align: center;
+  font-size: 1rem;
+}
